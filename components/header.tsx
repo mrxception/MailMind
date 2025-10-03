@@ -38,7 +38,7 @@ export function Header({ showBackButton = false, backTo = "/dashboard" }: Header
             </Button>
           )}
           <div className="flex items-center gap-2">
-            <img src="/MailMan.png" alt="Logo" className="h-8 w-8" />  
+            <img src="/MailMind.png" alt="Logo" className="h-8 w-8" />  
             <h1 className="text-xl font-bold">MailMind AI</h1>
           </div>
         </div>
