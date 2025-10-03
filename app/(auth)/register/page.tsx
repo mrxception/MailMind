@@ -113,7 +113,7 @@ export default function RegisterPage() {
               <p className="text-xs text-muted-foreground">Must be at least 6 characters</p>
             </div>
           </CardContent>
-          <CardFooter className="flex flex-col space-y-4">
+          <CardFooter className="flex flex-col mt-4 space-y-4">
             <Button type="submit" className="w-full" disabled={loading}>
               {loading ? (
                 <>
